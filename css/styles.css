@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+    padding: 0;
+}
+
+#canvas{
+    margin: 0 auto;
+    position: fixed;
+    width: 100% !important;
+}
+
+#scroll{
+    height: 1500%;
+    position: absolute;
+    width: 1000px;
+}
